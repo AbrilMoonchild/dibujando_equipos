@@ -3,10 +3,189 @@ header{
     display: flex;
     align-items: center;
     vertical-align: middle;
-    color: blanchedalmond;
+    color: rgb(241, 231, 215);
     font-family: 'Hubballi', cursive;
 }
 
 .logo{
     width: 200px; height: 200px;
+}
+#fireflower
+{
+    color: rgb(28,74,71);
+    font-family: 'Hubballi',cursive;
+    font-size: 20px;
+}
+.box0{
+    
+    width: 50px;
+    height: 50px;
+    /*
+    background-color: rgb(191, 184, 218);*/
+    position:normal; 
+}
+.box2{
+    width: 100px;
+    height: 150px;
+   
+    position:absolute;
+
+    box-shadow: 
+    
+    100px 550px 0 0 rgb(75,175,79),
+    200px 600px 0 0 rgb(75,175,79),
+    150px 600px 0 0 rgb(75,175,79),
+    700px 550px 0 0 rgb(75,175,79),
+    600px 600px 0 0 rgb(75,175,79),
+    650px 600px 0 0 rgb(75,175,79),
+
+    250px 650px 0 0 rgb(75,175,79),
+    550px 650px 0 0 rgb(75,175,79),
+    
+    400px 500px 0 0 rgb(75,175,79),
+    400px 650px 0 0 rgb(75,175,79);     
+}
+.box3
+{
+    width: 500px;
+    height: 50px;
+    
+    position:absolute; 
+    
+    box-shadow:
+    
+    200px 50px 0 0 black,
+    200px 450px 0 0 black,
+    200px 800px 0 0 black,      
+    
+    200px 100px 0 0 rgb(243,65,53),
+    200px 150px 0 0 rgb(254,254,0),
+    200px 200px 0 0 rgb(254,254,0),
+    200px 250px 0 0 rgb(254,254,0),
+    200px 300px 0 0 rgb(254,254,0),
+    200px 350px 0 0 rgb(254,167,38),
+    200px 400px 0 0 rgb(243,65,53);
+}
+.box4
+{
+    width: 50px;
+    height: 250px;
+    
+    position:absolute; 
+    
+    box-shadow: 
+    50px 150px 0 0 black,
+    800px 150px 0 0 black,
+    350px 500px 0 0 black,
+    500px 500px 0 0 black;
+          
+        
+}
+.box1
+{
+    width: 50px;
+    height: 50px;
+    
+    position:absolute; 
+    
+    box-shadow: 
+    100px 100px 0 0 black,
+    150px 100px 0 0 black,
+    200px 100px 0 0 black,
+    650px 100px 0 0 black,
+    700px 100px 0 0 black,
+    750px 100px 0 0 black,
+    100px 150px 0 0 black,
+    750px 150px 0 0 black,
+
+    100px 350px 0 0 black,
+    750px 350px 0 0 black,
+    100px 400px 0 0 black,
+    150px 400px 0 0 black,
+    200px 400px 0 0 black,
+    650px 400px 0 0 black,
+    700px 400px 0 0 black,
+    750px 400px 0 0 black,
+
+    350px 200px 0 0 black,
+    350px 250px 0 0 black,
+    
+    500px 200px 0 0 black,
+    500px 250px 0 0 black,
+
+    100px 500px 0 0 black,
+    150px 500px 0 0 black,
+    700px 500px 0 0 black,
+    750px 500px 0 0 black,
+
+    50px 550px 0 0 black,
+    200px 550px 0 0 black,
+    250px 550px 0 0 black,
+    600px 550px 0 0 black,
+    650px 550px 0 0 black,
+    800px 550px 0 0 black,
+
+    50px 600px 0 0 black,
+    300px 600px 0 0 black,
+    550px 600px 0 0 black,
+    800px 600px 0 0 black,
+
+    50px 650px 0 0 black,
+    800px 650px 0 0 black,
+
+    100px 700px 0 0 black,
+    750px 700px 0 0 black,
+
+    150px 750px 0 0 black,
+    200px 750px 0 0 black,
+    650px 750px 0 0 black,
+    700px 750px 0 0 black,
+
+    350px 750px 0 0 rgb(75,175,79),
+    500px 750px 0 0 rgb(75,175,79),
+
+    150px 150px 0 0 rgb(243,65,53),
+    200px 150px 0 0 rgb(254,167,38),
+    650px 150px 0 0 rgb(254,167,38),
+    700px 150px 0 0 rgb(243,65,53),
+
+    100px 200px 0 0 rgb(243,65,53),
+    150px 200px 0 0 rgb(254,167,38),
+    700px 200px 0 0 rgb(254,167,38),
+    750px 200px 0 0 rgb(243,65,53),
+
+    100px 250px 0 0 rgb(243,65,53),
+    150px 250px 0 0 rgb(254,167,38),
+    700px 250px 0 0 rgb(254,167,38),
+    750px 250px 0 0 rgb(243,65,53),
+
+    100px 300px 0 0 rgb(243,65,53),
+    150px 300px 0 0 rgb(254,167,38),
+    700px 300px 0 0 rgb(254,167,38),
+    750px 300px 0 0 rgb(243,65,53),
+
+    200px 300px 0 0 rgb(254,167,38),
+    250px 300px 0 0 rgb(254,167,38),
+    600px 300px 0 0 rgb(254,167,38),
+    650px 300px 0 0 rgb(254,167,38),
+
+    150px 350px 0 0 rgb(243,65,53),
+    200px 350px 0 0 rgb(243,65,53),
+    650px 350px 0 0 rgb(243,65,53),
+    700px 350px 0 0 rgb(243,65,53),
+
+    400px 200px 0 0 white,
+    450px 200px 0 0 white;
+}
+.box5
+{
+    bottom: 900px;
+    width: 50px;
+    height: 950px;
+    /*
+    background-color: rgb(191, 184, 218);*/
+    position:normal; 
+    
+          
+        
 }
